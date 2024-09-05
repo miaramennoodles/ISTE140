@@ -1,0 +1,19 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: rgb(67, 87, 64);
+    background-color: rgb(121, 146, 120);
+}
+
+.topbar {
+    background-color: rgb(67, 87, 64);
+    overflow: hidden;
+}
+
+h1{ 
+    color: rgb(121, 146, 120);
+}
+
+h3 {
+    color: rgb(67, 87, 64);
+}
+
